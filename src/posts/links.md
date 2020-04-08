@@ -1,7 +1,14 @@
 ---
-title: Links
+title: Links and Resources
 permalink: /links/
 date: 2010-09-27 06:30:50
+tags:
+ - links
+ - resources
+ - friends
+ - education
+ - writing
+ - haudenosaunee
 ---
 AILA invites you to visit the websites of other organizations working on indigenous peoples issues.
 

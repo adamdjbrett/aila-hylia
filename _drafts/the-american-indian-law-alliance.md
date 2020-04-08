@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Short Description
 permalink: /the-american-indian-law-alliance/
 date: 2010-09-23 07:03:37
 ---
