@@ -1,6 +1,6 @@
 ---
 title: 'Indigenous People's Day'
-date: '2017-10-15 12:06:18'
+date: '2017-10-15'
 tags: ['abolishcolumbusday', 'haudenosaunee', 'indigenouspeoplesday', 'notmyhero']
 permalink: /indigenous-peoples-day/
 ---
