@@ -1,6 +1,5 @@
 ---
 title: Dismantling the Doctrine of Discovery
-
 permalink: /dismantling-the-doctrine-of-discovery/
 tags: [catholicism, doctrine of discovery, indigenous peoples, native americans]
 date: 2017-10-30 23:20:00

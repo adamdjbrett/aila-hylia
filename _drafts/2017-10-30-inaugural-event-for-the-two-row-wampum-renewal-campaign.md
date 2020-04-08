@@ -1,6 +1,5 @@
 ---
 title: 'Inaugural event for the Two Row Wampum Renewal Campaign'
-
 permalink: /inaugural-event-for-the-two-row-wampum-renewal-campaign/
 tags: [haudenosaunee, indigenous peoples, native americans, sovereignty]
 date: 2017-10-30 23:29:27
