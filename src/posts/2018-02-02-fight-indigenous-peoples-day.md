@@ -1,6 +1,5 @@
 ---
 title: The Fight for Indigenous Peoples Day
-
 permalink: /fight-indigenous-peoples-day/
 tags: [doctrine of discovery, haudenosaunee, indigenous peoples, IndigenousPeoplesDay, native americans, notmyhero]
 date: 2018-02-02 01:30:18

@@ -1,6 +1,5 @@
 ---
-title: NYC, Wells Fargo, and the DAPL
-
+title: 'NYC, Wells Fargo, and the DAPL'
 permalink: /nyc-wells-fargo-dapl/
 tags: [Banks, mother earth, nodapl, nyc, water, wells fargo]
 date: 2018-02-02 09:00:31
