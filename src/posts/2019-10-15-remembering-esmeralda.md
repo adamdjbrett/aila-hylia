@@ -1,7 +1,7 @@
 ---
 title: 'Remembering Esmeralda'
 permalink: /remembering-esmeralda/
-tags: [un, united nations, unpfii, aunties, mothers]
+tags: [writing, un, united nations, unpfii, aunties, mothers]
 date: 2019-10-15 13:33:47
 ---
 What a gift to know a giant among humans.

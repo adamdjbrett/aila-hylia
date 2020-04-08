@@ -1,7 +1,7 @@
 ---
 title: 'Haudenosaunee Women’s Influence on The Women’s Rights Movement'
 date: '2020-02-14'
-tags: [feminism, haudenosaunee, indigenous, matilda effect, womens suffrage]
+tags: [writing, feminism, haudenosaunee, indigenous, matilda effect, womens suffrage]
 permalink: /haudenosaunee-womens-influence-on-the-womens-rights-movement/
 
 ---
@@ -33,4 +33,4 @@ Join us March 9th at Ethical NYC for an evening with Gloria Steinem, Sally Roes
 *   Matilda Joslyn Gage Foundation
 
 *   [➡︎ Visit Matilda Effect for more information](https://www.matildaeffect.events/).
-*   [⬇︎ Download the event poster](https://aila.ngo/wp-content/uploads/2020/02/Haudenosaunee-women-influence-web.jpg)
+*   [⬇︎ Download the event poster](/wp-content/uploads/2020/02/Haudenosaunee-women-influence-web.jpg)

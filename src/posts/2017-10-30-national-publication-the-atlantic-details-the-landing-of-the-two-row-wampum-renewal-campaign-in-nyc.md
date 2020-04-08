@@ -1,7 +1,7 @@
 ---
 title: National publication, The Atlantic
 permalink: /national-publication-the-atlantic-details-the-landing-of-the-two-row-wampum-renewal-campaign-in-nyc/
-tags: [haudenosaunee, native americans, sovereignty]
+tags: [writing, haudenosaunee, native americans, sovereignty]
 date: 2017-10-30 23:35:04
 ---
 

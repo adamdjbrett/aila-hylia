@@ -5,7 +5,7 @@ date: 2017-10-15 18:16:30
 ---
 ## Tonya Gonnella Frichner (Onondaga Nation) 1947-2015, Emeritus
 
-[![Tony Gonnella Frichner](https://aila.ngo/wp-content/uploads/2013/12/frichner.jpg)](https://aila.ngo/wp-content/uploads/2013/12/frichner.jpg)
+[![Tony Gonnella Frichner](/wp-content/uploads/2013/12/frichner.jpg)](/wp-content/uploads/2013/12/frichner.jpg)
 
 ### **Founder**
 
@@ -36,7 +36,7 @@ Tonya Gonnella Frichner is a lawyer and activist whose academic and professional
 
 #### American Indian Law Alliance News articles about Tonya Gonnella Frichner
 
-*   [Interview with Tonya Gonnella Frichner](https://aila.ngo/about/in-memoriam-tonya-gonnella-frichner/)
-*   [Inaugural event for the Two Row Wampum Renewal Campaign](https://aila.ngo/2017/10/inaugural-event-for-the-two-row-wampum-renewal-campaign/)
+*   [Interview with Tonya Gonnella Frichner](/about/in-memoriam-tonya-gonnella-frichner/)
+*   [Inaugural event for the Two Row Wampum Renewal Campaign](/inaugural-event-for-the-two-row-wampum-renewal-campaign/)
 
-![Maxine Nolan Gonnella](https://aila.ngo/wp-content/uploads/2013/12/maxine.jpg) Maxine Nolan Gonnella (Onondaga Nation) 1929-2003, Emeritus, served the American Indian Law Alliance since its inception and was one of the mentors and leaders upon whom we depend for guidance.
+![Maxine Nolan Gonnella](/wp-content/uploads/2013/12/maxine.jpg) Maxine Nolan Gonnella (Onondaga Nation) 1929-2003, Emeritus, served the American Indian Law Alliance since its inception and was one of the mentors and leaders upon whom we depend for guidance.

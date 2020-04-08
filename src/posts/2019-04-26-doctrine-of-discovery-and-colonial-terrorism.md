@@ -1,8 +1,7 @@
 ---
 title: 'Doctrine of Discovery and Colonial Terrorism'
-
 permalink: /doctrine-of-discovery-and-colonial-terrorism/
-tags: [	bodies, haudenosaunee, maori, sovereignty, women, doctrine of discovery, un]
+tags: [writing, bodies, haudenosaunee, maori, sovereignty, women, doctrine of discovery, un]
 date: 2019-04-26 14:38:44
 ---
 _The truth, while spoken, never dies._   

@@ -1,8 +1,7 @@
 ---
 title: 'Indigenous Women of the Americas Protecting Mother Earth'
-
 permalink: /indigenous-women-of-the-americas-protecting-mother-earth/
-tags: [haudenosaunee, mother earth, sovereignty, un, unpfii18]
+tags: [writing, haudenosaunee, mother earth, sovereignty, un, unpfii18]
 date: 2019-04-09 14:28:28
 ---
 Join us for - ‘Indigenous Women of the Americas Protecting Mother Earth: Struggles and Climate Change Solutions, 2019' - to be presented at the United Nations Church Center in New York City on Tuesday April 23rd, from 5:00 to 8:00 pm. This public event, organized and facilitated by WECAN International, is being held in parallel to the United Nations Permanent Forum on Indigenous Issues happening in NYC at this time, with the expressed purpose of ensuring that the vital voices of Indigenous women leaders are heard by the public, media and government representatives during the formal UN processes. Outstanding Indigenous women presenters of North and South America will speak out against the environmentally and socially destructive activities and policies threatening their homelands, and present the visions and strategies with which they are working to shape a healthy and equitable future for their communities and the Earth. Their diverse struggles and solutions will be contextualized within a frame of rapid climate change, fossil fuel extraction, attacks and criminalization against Indigenous women land defenders, biologic and cultural diversity protection, changing destructive economic frameworks, forest protection, and community-led solutions – demonstrating just why honoring Indigenous rights and knowledge is so essential for the survival and well-being of us all. Speakers:

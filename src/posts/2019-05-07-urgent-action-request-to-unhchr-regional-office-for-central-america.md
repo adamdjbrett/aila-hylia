@@ -1,8 +1,7 @@
 ---
 title: 'Urgent Action request to UNOHCHR Regional Office for Central America'
-
 permalink: /urgent-action-request-to-unhchr-regional-office-for-central-america/
-tags: [haudenosaunee, mmiw, sovereignty, un]
+tags: [writing, haudenosaunee, mmiw, sovereignty, un]
 date: 2019-05-07 19:05:36
 ---
 ### Call for Solidarity and Support of Indigenous Peoples
@@ -21,7 +20,7 @@ Below is a letter of concern delivered by the American Indian Law Alliance (aila
 
 ***
 
-[DOWNLOAD LETTER AS A PDF](https://aila.ngo/wp-content/uploads/2019/05/2019-AILA-OHCHR.pdf)
+[DOWNLOAD LETTER AS A PDF](/wp-content/uploads/2019/05/2019-AILA-OHCHR.pdf)
 
 
 cover image via: [flickr.com](https://www.flickr.com/photos/8751723@N02/36725211625)

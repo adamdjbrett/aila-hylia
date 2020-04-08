@@ -1,7 +1,7 @@
 ---
 title: 'AILA calls on NYC to Divest'
 permalink: /aila-calls-nyc-divest/
-tags: [divest, haudenosaunee, indigenous peoples, nodapl, nyc]
+tags: [writing, divest, haudenosaunee, indigenous peoples, nodapl, nyc]
 date: 2017-02-23 16:45:18
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Event Cancelled: Haudenosaunee Women’s Influence'
 date: '2020-03-05'
-tags: [feminism, haudenosaunee, covid-19]
+tags: [writing, feminism, haudenosaunee, covid-19]
 permalink: /event-cancelled-haudenosaunee-womens-influence/
 ---
 ## !This Event was cancelled due to concerns over COVID-19!
