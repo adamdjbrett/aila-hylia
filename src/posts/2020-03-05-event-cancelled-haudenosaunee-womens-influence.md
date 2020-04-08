@@ -1,5 +1,6 @@
 ---
-title: 'Event Cancelled: Haudenosaunee Women's Influence'
+title: >
+  Event Cancelled: Haudenosaunee Women's Influence
 author: adamdjbrett
 permalink: /event-cancelled-haudenosaunee-womens-influence/
 tags: [feminism, haudenosaunee, covid-19]

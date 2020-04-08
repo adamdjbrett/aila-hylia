@@ -1,5 +1,5 @@
 ---
-title: 'The 2020 Global Indigenous Women's Caucus'
+title: The 2020 Global Indigenous Women's Caucus
 author: adamdjbrett
 permalink: /the-2020-global-indigenous-womens-caucus/
 tags: [	Indigenous, sovereignty, un, united nations, womens rights, giwc, unpfii, covid-19]

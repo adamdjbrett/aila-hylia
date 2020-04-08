@@ -1,5 +1,6 @@
 ---
-title: 'Haudenosaunee Women's Influence on The Women's Rights Movement'
+title: >
+    Haudenosaunee Women's Influence on The Women's Rights Movement
 author: adamdjbrett
 permalink: /haudenosaunee-womens-influence-on-the-womens-rights-movement/
 tags: [feminism, haudenosaunee, Indigenous, matilda effect, womens suffrage]
