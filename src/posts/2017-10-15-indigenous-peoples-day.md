@@ -1,5 +1,5 @@
 ---
-title: 'Indigenous People&#8217;s Day'
+title: 'Indigenous People's Day'
 author: adamdjbrett
 permalink: /indigenous-peoples-day/
 tags: [abolishcolumbusday, featured, haudenosaunee, indigenouspeoplesday, notmyhero]

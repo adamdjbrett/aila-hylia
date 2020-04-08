@@ -1,5 +1,5 @@
 ---
-title: 'Coverage from the People&#8217;s State of the Union'
+title: 'Coverage from the People's State of the Union'
 author: adamdjbrett
 permalink: /coverage-peoples-state-union/
 tags: [indigenous peoples, peoplesotu]

@@ -1,5 +1,5 @@
 ---
-title: 'Happy Indigenous People&#8217;s Day'
+title: 'Happy Indigenous People's Day'
 author: bettylyons
 permalink: /happy-indigenous-peoples-day/
 tags: [haudenosaunee, indigenous peoples, sovereignty]

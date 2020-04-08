@@ -1,5 +1,5 @@
 ---
-title: 'The People&#8217;s State of the Union'
+title: 'The People's State of the Union'
 author: adamdjbrett
 permalink: /peoples-state-union/
 tags: [indigenous peoples, peoplesotu]
