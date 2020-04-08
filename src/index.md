@@ -1,10 +1,13 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: American Indian Law Alliance
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+## We are an NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)
+The [American Indian Law Alliance](/) was founded in 1989 by Tonya Gonnella Frichner (Onondaga, Snipe Clan). It is an indigenous, non-profit organization that works with Indigenous nations, communities and organizations in our struggle for sovereignty, human rights and social justice for our peoples. We support our elders and leaders and are accountable to the communities we serve. We welcome our allies, while remaining committed to our original instructions handed down through generations of ancestors in order to preserve Indigenous traditions for our descendants.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+On a national and international level, the American Indian Law Alliance (AILA) organizes and advocates on behalf of and with Indigenous Peoples from around the world. We are one of less than 20 Indigenous NGOs with special consultative status with the economic and social council of the United Nations. In the past, we worked directly with our local communities through the Legal Services Project.
+
+We hope the pages of this website will be useful and instructive. Please do not hesitate to contact us with your comments and questions. We appreciate your interest in our work and encourage your [support](/give/).
