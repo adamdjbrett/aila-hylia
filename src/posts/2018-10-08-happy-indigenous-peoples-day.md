@@ -1,6 +1,5 @@
 ---
-title: 'Happy Indigenous People's Day'
-
+title: 'Happy Indigenous People’s Day'
 permalink: /happy-indigenous-peoples-day/
 tags: [haudenosaunee, indigenous peoples, sovereignty]
 date: 2018-10-08 13:07:50

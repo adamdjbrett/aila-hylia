@@ -1,6 +1,5 @@
 ---
-title: 'The People's State of the Union'
-
+title: 'The People’s State of the Union'
 permalink: /peoples-state-union/
 tags: [indigenous peoples, peoplesotu]
 date: 2018-02-02 08:47:49

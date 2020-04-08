@@ -1,6 +1,5 @@
 ---
 title: United Nations Photo Gallery
-
 permalink: /united-nations-photo-gallery/
 tags: [haudenosaunee, indigenous peoples, united nations]
 date: 2018-02-27 12:18:24
