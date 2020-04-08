@@ -1,6 +1,6 @@
 ---
 title: 'NYT article on the Cicadas return to Onondaga Nation'
-author: bettylyons
+
 permalink: /nyt-article-on-the-cicadas-return-to-onondaga-nation/
 tags: [haudenosaunee, indigenous peoples, onondaga, sovereignty]
 date: 2018-06-22 16:02:52

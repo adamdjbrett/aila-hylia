@@ -1,6 +1,5 @@
 ---
 title: AILA Intervention on Mohawk Border issue
-author: adamdjbrett
 permalink: /aila-intervention-on-mohawk-border-issue/
 tags: [border, mohawk, sovereignty]
 date: 2017-10-30 23:26:20

@@ -1,6 +1,6 @@
 ---
 title: 'Buy tickets: Haudenosaunee Influence on Early Feminism'
-author: bettylyons
+
 permalink: /buy-tickets-haudenosaunee-influence-womens-rights-movement-now-april-18-2018/
 tags: [event, feminism, feminist, haudenosaunee, nyc, womens rights]
 date: 2018-03-05 14:16:49

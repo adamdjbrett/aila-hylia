@@ -1,6 +1,6 @@
 ---
 title: 'Calling on Cuomo to save Eagles and halt pipeline'
-author: adamdjbrett
+
 permalink: /calling-cuomo-save-eagles-halt-pipeline/
 tags: [bald eagles, eco-justice, mother earth, new york state, pipeline]
 date: 2018-02-02 00:00:06

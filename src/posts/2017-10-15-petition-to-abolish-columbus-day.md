@@ -1,6 +1,5 @@
 ---
 title: Petition to Abolish Columbus Day
-author: adamdjbrett
 permalink: /petition-to-abolish-columbus-day/
 tags: [abolishcolumbusday, featured, haudenosaunee, indigenouspeoplesday, notmyhero]
 date: 2017-10-15 19:29:18

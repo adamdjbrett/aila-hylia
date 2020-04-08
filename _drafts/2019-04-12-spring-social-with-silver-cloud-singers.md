@@ -1,6 +1,6 @@
 ---
 title: Spring Social with Silver Cloud Singers
-author: adamdjbrett
+
 permalink: /spring-social-with-silver-cloud-singers/
 tags: [events, haudenosaunee, mother earth, sovereignty, un, unpfii18]
 date: 2019-04-12 14:43:26

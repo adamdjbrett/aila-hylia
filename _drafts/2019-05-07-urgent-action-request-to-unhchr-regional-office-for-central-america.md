@@ -1,6 +1,6 @@
 ---
 title: 'Urgent Action request to UNOHCHR Regional Office for Central America'
-author: adamdjbrett
+
 permalink: /urgent-action-request-to-unhchr-regional-office-for-central-america/
 tags: [haudenosaunee, mmiw, sovereignty, un]
 date: 2019-05-07 19:05:36

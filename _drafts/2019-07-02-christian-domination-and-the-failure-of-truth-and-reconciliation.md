@@ -1,6 +1,6 @@
 ---
 title: Christian Domination and the Failure of Truth and Reconciliation
-author: adamdjbrett
+
 permalink: /christian-domination-and-the-failure-of-truth-and-reconciliation/
 tags: [haudenosaunee, Indigenous, sovereignty]
 date: 2019-07-02 13:18:53

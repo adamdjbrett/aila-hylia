@@ -1,6 +1,6 @@
 ---
 title: 'Statement on Cuomo wanting to add Columbus statue to historic registers'
-author: bettylyons
+
 permalink: /statement-on-cuomo-wanting-to-add-columbus-statue-to-historic-registers/
 tags: [haudenosaunee, indigenous peoples, sovereignty, columbus]
 date: 2018-10-09 16:39:23

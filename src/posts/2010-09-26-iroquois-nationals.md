@@ -1,6 +1,5 @@
 ---
 title: 'Iroquois Nationals Passport/Visa Dispute'
-author: adamdjbrett
 permalink: /iroquois-nationals/
 tags: [haudenosaunee, iroquois nationals, lacrosse, passports]
 date: 2010-09-26 07:49:43

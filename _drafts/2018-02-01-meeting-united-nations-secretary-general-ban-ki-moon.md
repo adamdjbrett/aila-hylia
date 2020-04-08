@@ -1,6 +1,6 @@
 ---
 title: Meeting with UN Secretary-General
-author: adamdjbrett
+
 permalink: /meeting-united-nations-secretary-general-ban-ki-moon/
 tags: [eco-justice, haudenosaunee, hero-image, water]
 date: 2018-02-01 23:40:02

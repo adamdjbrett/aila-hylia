@@ -1,6 +1,6 @@
 ---
 title: Betty Lyons to Speak at Iona College
-author: adamdjbrett
+
 permalink: /betty-lyons-to-speak-at-iona-college/
 tags: [events, speaking, aila, haudenosaunee, indigenous peoples, native americans, peacemaker, sovereignty]
 date: 2018-11-04 12:50:14

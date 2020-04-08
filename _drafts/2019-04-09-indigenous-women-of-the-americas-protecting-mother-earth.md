@@ -1,6 +1,6 @@
 ---
 title: 'Indigenous Women of the Americas Protecting Mother Earth'
-author: adamdjbrett
+
 permalink: /indigenous-women-of-the-americas-protecting-mother-earth/
 tags: [haudenosaunee, mother earth, sovereignty, un, unpfii18]
 date: 2019-04-09 14:28:28

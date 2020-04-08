@@ -1,6 +1,6 @@
 ---
 title: 'Doctrine of Discovery and Colonial Terrorism'
-author: adamdjbrett
+
 permalink: /doctrine-of-discovery-and-colonial-terrorism/
 tags: [	bodies, haudenosaunee, maori, sovereignty, women, doctrine of discovery, un]
 date: 2019-04-26 14:38:44

@@ -1,6 +1,6 @@
 ---
 title: 'Nuclear Reactors are not &#8220;Green&#8221;'
-author: adamdjbrett
+
 permalink: /nuclear-reactors-are-not-green/
 tags: [environment, fracking, haudenosaunee, mother earth, nuclear, waterislife]
 date: 2019-03-27 17:24:21

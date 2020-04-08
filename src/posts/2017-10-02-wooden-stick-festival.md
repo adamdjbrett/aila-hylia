@@ -1,6 +1,5 @@
 ---
 title: 'Wooden Stick Festival'
-author: adamdjbrett
 tags: [haudenosaunee, lacrosse, laxweekend17]
 permalink: /wooden-stick-festival/
 date: 2017-10-02 15:16:22

@@ -1,6 +1,6 @@
 ---
 title: Imposed Borders
-author: adamdjbrett
+
 permalink: /imposed-borders/
 tags: [events, haudenosaunee, indigenous peoples, native americans, peacemaker, sovereignty, doctrine of discovery, un]
 date: 2019-03-14 15:57:43

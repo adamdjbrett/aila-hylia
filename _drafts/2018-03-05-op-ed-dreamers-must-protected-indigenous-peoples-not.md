@@ -1,6 +1,6 @@
 ---
 title: 'Op-Ed: Dreamers must be protected – as Indigenous Peoples were not'
-author: bettylyons
+
 permalink: /op-ed-dreamers-must-protected-indigenous-peoples-not/
 tags: [daca, dreamers, indigenous peoples]
 date: 2018-03-05 14:25:13

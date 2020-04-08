@@ -1,6 +1,6 @@
 ---
 title: 'Spectrum News Coverage of the Vigil Against Violence at the border'
-author: adamdjbrett
+
 permalink: /spectrum-news-coverage-of-the-vigil-against-violence-at-the-border/
 tags: [haudenosaunee, indigenous peoples, native americans, peacemaker, sovereignty]
 date: 2018-12-14 15:31:23

@@ -1,6 +1,6 @@
 ---
 title: 'The People's State of the Union'
-author: adamdjbrett
+
 permalink: /peoples-state-union/
 tags: [indigenous peoples, peoplesotu]
 date: 2018-02-02 08:47:49
