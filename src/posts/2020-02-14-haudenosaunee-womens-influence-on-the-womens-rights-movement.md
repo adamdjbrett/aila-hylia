@@ -1,5 +1,5 @@
 ---
-title: 'Haudenosaunee Women's Influence on The Women's Rights Movement'
+title: 'Haudenosaunee Women’s Influence on The Women’s Rights Movement'
 date: '2020-02-14'
 tags: [feminism, haudenosaunee, indigenous, matilda effect, womens suffrage]
 permalink: /haudenosaunee-womens-influence-on-the-womens-rights-movement/
