@@ -9,6 +9,8 @@
  - image thumnail homepage
  - colors
  - category catch all
+ - featured images on post
+ - photo gallery
 
 # A simple starter kit for Eleventy
 
