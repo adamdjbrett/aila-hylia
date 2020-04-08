@@ -1,10 +1,8 @@
 ---
-title: >
-    Haudenosaunee Women's Influence on The Women's Rights Movement
-author: adamdjbrett
+title: 'Haudenosaunee Women's Influence on The Women's Rights Movement'
 permalink: /haudenosaunee-womens-influence-on-the-womens-rights-movement/
 tags: [feminism, haudenosaunee, Indigenous, matilda effect, womens suffrage]
-date: 2020-02-14 09:18:10
+date: '2020-02-14'
 ---
 Join us March 9th at Ethical NYC for an evening with Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Gaeñ hia uh/Betty Lyons. This event features Indigenous women leaders and non-Native feminist activists highlighting the story of how the Haudenosaunee Confederacy served as the inspiration for early feminists. Speakers include the influential feminist author and activist Gloria Steinem. A fundraiser for the American Indian Law Alliance and the Matilda Joslyn Gage Foundation, the event launches the Gage Foundation’s “Matilda Effect Project”, writing women who have worked for peace and social justice back into history.
 
