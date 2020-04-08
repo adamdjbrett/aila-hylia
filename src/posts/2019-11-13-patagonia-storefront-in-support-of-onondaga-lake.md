@@ -1,6 +1,5 @@
 ---
 title: 'Patagonia Storefront in Support of Onondaga Lake'
-author: adamdjbrett
 permalink: /patagonia-storefront-in-support-of-onondaga-lake/
 tags: [haudenosaunee, onondaga, onondaga lake, patagonia]
 date: 2019-11-13 11:08:57

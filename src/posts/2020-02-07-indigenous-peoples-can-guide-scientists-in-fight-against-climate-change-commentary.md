@@ -1,6 +1,5 @@
 ---
 title: 'Indigenous peoples can guide scientists in fight against climate change'
-author: adamdjbrett
 permalink: /indigenous-peoples-can-guide-scientists-in-fight-against-climate-change-commentary/
 tags: [ecology, environment, haudenosaunee, mother earth]
 date: 2020-02-07 16:10:26

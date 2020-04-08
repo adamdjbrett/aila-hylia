@@ -1,8 +1,7 @@
 ---
-title: Past Events
-author: adamdjbrett
+title: 'Past Events'
 permalink: /past-events/
-date: 2020-04-06 16:15:29
+date: '2020-04-06'
 tags:
  - events
 ---
