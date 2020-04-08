@@ -4,7 +4,7 @@ date: 2020-02-28 16:48:52
 tags: [writing, Indigenous, sovereignty, un, united nations, womens rights, giwc, unpfii, covid-19]
 permalink: /the-2020-global-indigenous-womens-caucus/
 ---
-## !This Event was cancelled due to concerns over COVID-19!
+⚠️ _This Event was cancelled in order to encourage social distancing due concerns over COVID-19_ ⚠️
 
 ## 19th Annual Global Indigenous Women’s Caucus
 
