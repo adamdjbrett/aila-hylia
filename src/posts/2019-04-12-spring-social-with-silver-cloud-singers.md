@@ -26,4 +26,4 @@ For more information contact [safeharborsic@gmail.com](mailto:safeharborsic@gma
 *   [LaMaMa Indigenous Initiative](http://lamama.org/programs/indigenous_initiative/)
 *   [American Indian Law Alliance](https://aila.ngo)
 
-[⤓ Download the Spring Social Flyer as a PDF](/wp-content/uploads/2019/04/springsocial2019-rev2.pdf)
+[⤓ Download the Spring Social Flyer as a PDF](/docs/2019/04/springsocial2019-rev2.pdf)

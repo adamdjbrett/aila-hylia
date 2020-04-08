@@ -16,6 +16,7 @@ Moving to Eleventy
  - category catch all
  - featured images on post
  - photo gallery
+ - add search
 
 # A simple starter kit for Eleventy
 
