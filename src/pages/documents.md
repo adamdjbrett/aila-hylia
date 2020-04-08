@@ -9,7 +9,7 @@ date: 2010-09-26 06:54:36
 
 *   [Nuclear Reactors are Not Green ⤓](/docs/2019/03/NukeRedPaper3-25-19.pdf)
 *   [American Indian Law Alliance Brochure. ⤓](/docs/2018/02/AILA-Brochure.pdf)
-*   [AILA Betty Lyons Expert Group Meeting Statement-Jan-23-2018 ⤓](/docs/2018/02/AILA-Betty-Lyons-Expert-Group-Meeting-Statement-Jan-23-2018.pdf) .
+*   [AILA Betty Lyons Expert Group Meeting Statement-Jan-23-2018. ⤓](/docs/2018/02/AILA-Betty-Lyons-Expert-Group-Meeting-Statement-Jan-23-2018.pdf)
 *   [Joint Intervention The Haudenosaunee and the American Indian Law Alliance. ⤓](/docs/2018/02/EMRIP-Intervention-Final.pdf)
 *   [AILA Intervention Mohawk Nation Border Issues. Ms. Betty Lyons (Onondaga Nation), presented this joint intervention on 29 April 2015 at the Fourteenth Session of the UNPFII. Intervention presented under Agenda Item 8: Future work of the Permanent Forum. ⤓](/docs/2015/07/14th_Session_Future_Work_Border_Crossing_AILA_Intervention_Final.pdf)
 *   [Intervention by the Haudenosaunee and the American Indian Law Alliance presented at the 6th Session of the Expert Mechanism on the Rights of Indigenous Peoples (EMRIP), 8-12 July 2013, Geneva, Switzerland, presented under Agenda Item 3, by Kenneth Deer (Mohawk). ⤓](/docs/2018/03/EMRIP_Intervention_Final.pdf)
