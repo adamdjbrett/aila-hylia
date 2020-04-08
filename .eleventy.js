@@ -34,6 +34,7 @@ module.exports = function(config) {
   config.addPassthroughCopy('src/admin/config.yml');
   config.addPassthroughCopy('src/admin/previews.js');
   config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
+  config.addPassthroughCopy('src/docs');
 
   const now = new Date();
 
@@ -55,7 +56,7 @@ module.exports = function(config) {
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
 
-  // 404 
+  // 404
   config.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
