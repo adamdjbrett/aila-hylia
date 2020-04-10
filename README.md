@@ -1,6 +1,7 @@
-# American Indian Law Alliance
-Moving to Eleventy
+# [American Indian Law Alliance](https://aila.ngo)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5d9540cd-000b-412e-95a0-e60cbb28c69c/deploy-status)](https://app.netlify.com/sites/nifty-feynman-ae8162/deploys)
+
+Moving to Eleventy
 
 # Adam's Notes
 - Apostrophes in Eleventy you can't use HTML entity names in titles. Also the 'straight quote' is different from an `’` apostrophe. Apsotrophes need to be curly like in `Madam I’m Adam`
