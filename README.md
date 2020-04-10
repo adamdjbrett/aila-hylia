@@ -17,10 +17,14 @@ Moving to Eleventy
  - photo gallery
  - add search
  - update acorn and minimist
+ - sitemap
+ - robots
+ - feed
 
 ### Done
   - ~~get wp-content folder to work~~
   - ~~category catch all~~
+  - ~~sitemap~~
 
 # A simple starter kit for Eleventy
 
