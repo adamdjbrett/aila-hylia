@@ -6,17 +6,20 @@ Moving to Eleventy
 - Apostrophes in Eleventy you can't use HTML entity names in titles. Also the 'straight quote' is different from an `’` apostrophe. Apsotrophes need to be curly like in `Madam I’m Adam`
 
 ## To Do list
- - get wp-content folder to work
+
  - Multi-author
  - author cards
  - homepage hero image
  - homepage give button
- - image thumnail homepage
+ - image thumbnail homepage
  - colors
  - category catch all
  - featured images on post
  - photo gallery
  - add search
+
+### Done
+  - ~~get wp-content folder to work~~
 
 # A simple starter kit for Eleventy
 

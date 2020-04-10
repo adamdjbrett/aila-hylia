@@ -1,6 +1,6 @@
 ---
 title: Staff and Board
-permalink: /staff-and-board/
+permalink: /about/staff/
 date: 2018-03-07 19:03:48
 ---
 [![Betty Lyons](/images/2015/04/IMG_0628.jpg)](/images/2015/04/IMG_0628.jpg)
