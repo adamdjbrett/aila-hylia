@@ -2,12 +2,11 @@
   "showThemeCredit": true,
   "name": "American Indian Law Alliance",
   "shortDesc": "We are an NGO in consultative status with the United Nations Economic & Social Council (ECOSOC).",
-  "url": "https://aila.ngo",
+  "url": "https://nifty-feynman-ae8162.netlify.com/",
   "authorEmail": "aila@aila.ngo",
   "authorHandle": "@ailanyc",
   "authorName": "Betty Lyons",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png"
 }
