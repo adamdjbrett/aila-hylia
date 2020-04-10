@@ -13,13 +13,14 @@ Moving to Eleventy
  - homepage give button
  - image thumbnail homepage
  - colors
- - category catch all
  - featured images on post
  - photo gallery
  - add search
+ - update acorn and minimist
 
 ### Done
   - ~~get wp-content folder to work~~
+  - ~~category catch all~~
 
 # A simple starter kit for Eleventy
 
