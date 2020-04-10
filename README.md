@@ -24,7 +24,7 @@ Moving to Eleventy
 ### Done
   - ~~get wp-content folder to work~~
   - ~~category catch all~~
-  - ~~sitemap~~
+  - ~~sitemap~~ used Netlify Plugin couldn't get the [Eleventy blog sitemap to work](https://github.com/11ty/eleventy-base-blog)
 
 # A simple starter kit for Eleventy
 
