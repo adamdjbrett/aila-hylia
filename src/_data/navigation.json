@@ -13,6 +13,7 @@
     {
       "text": "Search",
       "url": "/search/",
+      "id": "search-link",
       "external": false
     },
     {
