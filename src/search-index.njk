@@ -1,12 +1,4 @@
 ---
 permalink: search.json
 ---
-{"search" : [
-{%- for item in collections.posts -%}
-  {
-    "url" : "{{ site.url }}{{ permalink }}",
-    "title" : "{{ post.data.title }}",
-    "text" : "{{ post.templateContent | squash }}"
-  }{% if not loop.last %},{% else %}{%- endif -%}
-{%- endfor -%}
-]}
+{{ collections.all | search | dump | safe }}
