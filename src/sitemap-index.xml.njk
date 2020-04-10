@@ -1,15 +1,21 @@
 ---
 permalink: /sitemap-index.xml
-excludeFromSitemap: true
+sitemapIgnore: true
 ---
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/styles/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for page in collections.all %}
-{%- if not page.data.excludeFromSitemap %}
-  {% set absoluteUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset %}
+{%- for item in collections.all %}
+{%- if item.data.sitemapIgnore !== true %}
   <url>
-    <loc>{{ absoluteUrl }}</loc>
-    <lastmod>{{ page.date | htmlDateString }}</lastmod>
+    <loc>{{ item.url | httpUrl }}</loc>
+    {% if item.data.premier.date -%}
+    <lastmod>{{ item.data.premier.date | dateDisplay("toISOString") }}</lastmod>
+    {%- else -%}
+    <lastmod>{{ item.date | dateDisplay("toISOString") }}</lastmod>
+    {%- endif %}
+    <changefreq>{{ item.data.changefreq | valueIfEmpty("monthly") }}</changefreq>
+    <priority>{{ item.data.priority | valueIfEmpty("0.5") }}</priority>
   </url>
 {%- endif %}
 {%- endfor %}
