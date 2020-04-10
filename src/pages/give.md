@@ -9,7 +9,7 @@ Please consider Giving to American Indian Law Alliance (AILA) in order to assist
 
 <input name="hosted_button_id" type="hidden" value="VNPKXRH4STZYA" />
 
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image" />
+<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image" width="147" height="47" border="0" />
 
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
 
