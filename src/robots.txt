@@ -4,4 +4,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://aila.ngo/sitemap.xml
+Sitemap: https://aila.ngo/sitemap.xml
