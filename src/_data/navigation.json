@@ -11,23 +11,18 @@
       "external": false
     },
     {
-      "text": "Search",
-      "url": "/search/",
-      "external": false
-    },
-    {
       "text": "Issues",
       "url": "/issues/",
       "external": false
     },
     {
-      "text": "Documents",
-      "url": "/documents/",
+      "text": "Contact",
+      "url": "/contact-us/",
       "external": false
     },
     {
-      "text": "Contact",
-      "url": "/contact-us/",
+      "text": "Search",
+      "url": "/search/",
       "external": false
     },
     {

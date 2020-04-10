@@ -14,7 +14,7 @@ On a national and international level, the American Indian Law Alliance (AILA) o
 We hope the pages of this website will be useful and instructive. Please do not hesitate to contact us with your comments and questions. We appreciate your interest in our work and encourage your [support](/give/).
 
 ### Meet Our Staff and Board
-[Our Staff and Board](/about/staff/)
+  - [Our Staff and Board](/about/staff/)
 
 ## Our History
 
@@ -25,15 +25,15 @@ The [American Indian Law Alliance (AILA)](/) was founded in 1989; it is an Indig
 Since our founding in 1989, the American Indian Law Alliance has been an active participant and legal and diplomatic counsel to Indigenous delegations in virtually all United Nations international forums affecting Indigenous peoples. AILA acted as a delegate for and was legal counsel to Indigenous Nations at the UN Sub-Commission on Human Rights/Working Group on Indigenous Populations in Geneva, Switzerland. At the United Nations, AILA was a critical leader in the drafting, negotiation and passage of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), (A/61/L.67) adopted by the UN General Assembly in September 2007\. Article 43 of the UNDRIP states, “_The rights recognized herein constitute the minimum standards for the survival, dignity and well-being of the indigenous peoples of the world_." The UNDRIP is also “_guided by the purposes and principles_” of the work of the United Nations. The global significance of this document cannot be overstated. The UNDRIP is the first international legal mechanism on the rights of Indigenous Peoples to have wide support amongst member states of the UN. Furthermore, this was the longest ever debated human rights mechanism; it was debated for over twenty years. AILA was central to the establishment of the United Nations Permanent Forum on Indigenous Issues, which is the primary forum for Indigenous Peoples from around the world to speak at the United Nations. The annual session is attended by approximately 2,000 Indigenous Peoples from around the world, making it one of the most highly attended meetings at the UN. This forum allows Indigenous Peoples to raise issues concerning the environmental contamination of their lands, violations of their human rights, and to celebrate the continued practice of their sovereignty and self-determination.
 
 ## Purpose
-[Purpose, Vision, & Goals](/about/purpose/)
+  - [Purpose, Vision, & Goals](/about/purpose/)
 
 ### **How we Achieve our Goals**
 
 The American Indian Law Alliance achieves these goals by linking grassroots organizing to high levels meetings at the United Nations. It is this unique ability to employ a wide variety of tactics, from grassroots activism to addressing the UN General Assembly, that make AILA truly unique. Through it all, we remain accountable to our communities and to the Onondaga Nation Council of Chiefs. We consistently honor our worldview by remaining committed to our original instructions to be a caretaker for Mother Earth. During the ultimately successful fight to ban fracking in the political borders of New York State, AILA engaged the battle on different levels. AILA staff helped to organize people to attend anti-fracking rallies in Albany, NY. Meanwhile, AILA brought the message to ban fracking to the international level at the UN. Our ability to talk in the ‘halls of power’ while always staying accountable to Indigenous Nations and communities makes us a unique organization. At International meetings, we present statements that and reviewed by UN member-states and international human rights experts. Our recommendations are frequently included in the published final report of these conferences. Our former president served as the North American Region Representative to the United Nations Permanent Forum on Indigenous Issues. She was tasked with representing all Indigenous Peoples of Great Turtle Island (U.S. and Canada). Using our special consultative status with the United Nations Economic and Social Council (ECOSOC), we work with Indigenous leaders, elders and youth in communicating their perspectives and issues from the community level into international forums. In the past, we worked directly with local the New York City Native American community through the Legal Services Project, which provided free legal aid to Native Peoples in NYC. According to the 2010 census data, there are over 110,000 Native Peoples living in NYC.
 
- - [Download the American Indian Law Alliance Brochure.](/docs/2018/02/AILA-Brochure.pdf)
-
+ - [Download the American Indian Law Alliance Brochure](/docs/2018/02/AILA-Brochure.pdf)
  - [Download a high resolution copy of the American Indian Law Alliance Logo](/images/2019/05/American-Indian-Law-Alliance-ECOSOC.png).
+ - [Download the American Indian Law Alliance Working Papers](/documents/)
 
 ## In Memoriam
-[Remembering our Founder Tonya Gonella Frichner](/about/in-memoriam-tonya-gonnella-frichner/)
+  - [Remembering our Founder Tonya Gonella Frichner](/about/in-memoriam-tonya-gonnella-frichner/)
