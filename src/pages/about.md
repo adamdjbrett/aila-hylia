@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 date: 2010-09-23 06:45:44
 ---
-## AMERICAN INDIAN LAW ALLIANCE: an NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)._
+## AMERICAN INDIAN LAW ALLIANCE: an NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)
 
 ### Short Description
 The [American Indian Law Alliance](/) was founded in 1989 by Tonya Gonnella Frichner (Onondaga, Snipe Clan). It is an indigenous, non-profit organization that works with Indigenous nations, communities and organizations in our struggle for sovereignty, human rights and social justice for our peoples. We support our elders and leaders and are accountable to the communities we serve. We welcome our allies, while remaining committed to our original instructions handed down through generations of ancestors in order to preserve Indigenous traditions for our descendants.
