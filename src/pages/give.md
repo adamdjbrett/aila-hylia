@@ -3,7 +3,7 @@ title: Give
 permalink: /give/
 date: 2018-03-01 10:40:33
 ---
-<div style="width: padding; margin-top: unset;">
+<div style="width: unset; padding: unset; margin-top: unset;">
 <p>Please consider Giving to American Indian Law Alliance (AILA) in order to assist us in our work.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
