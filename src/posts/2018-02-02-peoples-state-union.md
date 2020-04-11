@@ -21,4 +21,4 @@ Betty shared what she calls 'three of the best kept secrets in U.S. History:'
 
 If you missed the People's State of the Union you can get caught up on Youtube:
 
-https://www.youtube.com/watch?v=gp3w_uNINv0&amp;feature=youtu.be
+[https://www.youtube.com/watch?v=gp3w_uNINv0&amp;feature=youtu.be](https://www.youtube.com/watch?v=gp3w_uNINv0&amp;feature=youtu.be)
