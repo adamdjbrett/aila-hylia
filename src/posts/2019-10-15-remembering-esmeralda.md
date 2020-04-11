@@ -22,4 +22,4 @@ Thank you for everything Esmeralda. We love you.
 
 ~ [Betty Lyons](https://www.facebook.com/profile.php?id=100009225749041&eid=ARBDHZnZSMdRBR4pqwC1LCsBe1ytbmBgObyOB0EH8bXX1xWQUSfVXI40asIXA9m-iXGRvS8UNdg-aQiq "Betty Lyons"), President, [American Indian Law Alliance](/)
 
-~ Roger Drew, friend of American Indian Law Alliance [https://aila.ngo](https://l.facebook.com/l.php?u=https%3A%2F%2Faila.ngo%2F%3Ffbclid%3DIwAR25Fh9gJWVvfmshsnfdGWSg1FUB0t3EYg2GGDMnMBMXTYkaaVUMIGZXxvc&h=AT2Vo8QTwQaDsRSZE0Ya2F1H4Bth-fOGT8dalg7tyFKltwf3mNxI7Nzoy5lHwwfdFvOaC5L2Xkrau-DxYvRXKaZ6rLA0O7agEmtVVNNRYzBWag9jfsC-bQ6AXDOeY6DDxfm0G-bp)
+~ Roger Drew, friend of American Indian Law Alliance [aila.ngo](https://aila.ngo)
