@@ -10,22 +10,24 @@ Moving to Eleventy
 
  - Multi-author
  - author cards
- - homepage hero image
+ - homepage hero image. Going to try [https://www.belter.io/eleventy-search/](https://www.belter.io/eleventy-search/)
  - homepage give button
  - image thumbnail homepage
  - colors
  - featured images on post
  - photo gallery
- - add search
  - update acorn and minimist
- - sitemap
- - robots
- - feed
+ - fix TypeError: Request failed
 
 ### Done
+  - add search. Partial. No on site search yet.
   - ~~get wp-content folder to work~~
   - ~~category catch all~~
-  - ~~sitemap~~ used Netlify Plugin couldn't get the [Eleventy blog sitemap to work](https://github.com/11ty/eleventy-base-blog)
+  - [~~sitemap~~](https://github.com/duncanmcdougall/eleventy-sitemap-demo)
+  - ~~sitemap [Netlify's sitemap Plugin](https://github.com/netlify-labs/netlify-plugin-sitemap) is amazing but I did a plugin free option.
+  - sitemap I couldn't get the [Eleventy blog sitemap to work](https://github.com/11ty/eleventy-base-blog)~~
+  - ~~robots~~
+  - ~~feed~~
 
 # A simple starter kit for Eleventy
 
