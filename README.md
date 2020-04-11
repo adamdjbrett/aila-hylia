@@ -24,8 +24,8 @@ Moving to Eleventy
   - ~~get wp-content folder to work~~
   - ~~category catch all~~
   - [~~sitemap~~](https://github.com/duncanmcdougall/eleventy-sitemap-demo)
-  - ~~sitemap [Netlify's sitemap Plugin](https://github.com/netlify-labs/netlify-plugin-sitemap) is amazing but I did a plugin free option.
-  - sitemap I couldn't get the [Eleventy blog sitemap to work](https://github.com/11ty/eleventy-base-blog)~~
+    - [Netlify's sitemap Plugin](https://github.com/netlify-labs/netlify-plugin-sitemap) is amazing but I did a plugin free option.
+    - sitemap I couldn't get the [Eleventy blog sitemap to work](https://github.com/11ty/eleventy-base-blog)
   - ~~robots~~
   - ~~feed~~
 
