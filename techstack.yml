@@ -1,0 +1,242 @@
+repo_name: adamdjbrett/aila-hylia
+report_id: f4b8b1105ffb28b2f83334ee83fb4df3
+repo_type: Public
+timestamp: '2023-11-10T02:00:27+00:00'
+requested_by: adamdjbrett
+provider: github
+branch: master
+detected_tools_count: 18
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: package.json
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-11 21:38:24.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: package.json
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-11 21:38:24.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-11 21:38:24.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source: netlify.toml
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-18 19:43:19.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-11 21:38:24.000000000 Z
+- name: chokidar-cli
+  description: Ultra-fast cross-platform command line utility to watch file system
+    changes
+  package_url: https://www.npmjs.com/chokidar-cli
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16834/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: html-minifier
+  description: Highly configurable
+  package_url: https://www.npmjs.com/html-minifier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16552/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-18 21:01:59.000000000 Z
+- name: rollup-plugin-commonjs
+  description: Convert CommonJS modules to ES2015
+  package_url: https://www.npmjs.com/rollup-plugin-commonjs
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: rollup-plugin-json
+  description: 'Convert .json files to ES6 modules:'
+  package_url: https://www.npmjs.com/rollup-plugin-json
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16108/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: rollup-plugin-node-resolve
+  description: Bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/rollup-plugin-node-resolve
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: sass
+  description: A pure JavaScript implementation of Sass
+  package_url: https://www.npmjs.com/sass
+  version: 1.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: james foran
+  last_updated_on: 2020-03-17 11:10:42.000000000 Z
