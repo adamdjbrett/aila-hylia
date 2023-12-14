@@ -1,34 +1,44 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 adamdjbrett/aila-hylia is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Netlify](https://www.netlify.com/) – Static Web Hosting
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
 - [Prettier](https://prettier.io/) – Code Review
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 adamdjbrett/aila-hylia is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/aila-hylia](https://github.com/adamdjbrett/aila-hylia)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|11/15/23 <br/>Report generated|
+|22<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -45,12 +55,33 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'>
   <br>
   <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'>
+  <br>
+  <sub><a href="http://sass-lang.com/">Sass</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'>
+  <br>
+  <sub><a href="https://github.com/pgvector/pgvector/">pgvector</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -116,6 +147,27 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+## Other (2)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
+  <br>
+  <sub><a href="http://">HTML</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
+  <br>
+  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
 
 ## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
 
@@ -131,10 +183,10 @@ Full tech stack [here](/techstack.md)
 |[rollup-plugin-commonjs](https://www.npmjs.com/rollup-plugin-commonjs)|v10.1.0|03/17/20|james foran |MIT|N/A|
 |[rollup-plugin-json](https://www.npmjs.com/rollup-plugin-json)|v4.0.0|03/17/20|james foran |MIT|N/A|
 |[rollup-plugin-node-resolve](https://www.npmjs.com/rollup-plugin-node-resolve)|v5.2.0|03/17/20|james foran |MIT|N/A|
-|[sass](https://www.npmjs.com/sass)|v1.26.3|03/17/20|james foran |MIT|N/A|
+|[semver](https://www.npmjs.com/semver)|v7.5.2|07/05/23|Adam DJ Brett |ISC|N/A|
 |[slugify](https://www.npmjs.com/slugify)|v1.4.0|03/17/20|james foran |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
