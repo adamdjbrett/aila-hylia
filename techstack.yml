@@ -1,11 +1,12 @@
 repo_name: adamdjbrett/aila-hylia
 report_id: a5b81ccf710a37f1cd46f2086e8a5ea8
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T03:24:32+00:00'
+timestamp: '2024-01-05T08:42:51+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 18
+detected_tools_count: 22
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -27,9 +29,35 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andy Bell
   last_updated_on: 2019-06-11 21:38:24.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Andy Bell
+  last_updated_on: 2019-06-11 21:38:24.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/LICENSE.txt
+  detection_source: LICENSE.txt
+  last_updated_by: Damian Beresford
+  last_updated_on: 2019-09-18 18:45:29.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -38,6 +66,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -47,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andy Bell
   last_updated_on: 2019-06-11 21:38:24.000000000 Z
@@ -60,7 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -72,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andy Bell
   last_updated_on: 2019-06-11 21:38:24.000000000 Z
@@ -83,6 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -95,9 +127,32 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Andy Bell
   last_updated_on: 2019-06-18 19:43:19.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/src/googlebfdcfddbdbfcbd99.html
+  detection_source: src/googlebfdcfddbdbfcbd99.html
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-04-10 05:42:38.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/LICENSE.txt
+  detection_source: LICENSE.txt
+  last_updated_by: Damian Beresford
+  last_updated_on: 2019-09-18 18:45:29.000000000 Z
 - name: bl
   description: 'Buffer List: collect buffers and access with a standard readable Buffer
     interface'
@@ -109,7 +164,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andy Bell
   last_updated_on: 2019-06-11 21:38:24.000000000 Z
@@ -124,7 +179,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16834/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -138,7 +193,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -152,7 +207,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -166,7 +221,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16552/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andy Bell
   last_updated_on: 2019-06-18 21:01:59.000000000 Z
@@ -180,7 +235,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -194,7 +249,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16108/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
@@ -208,24 +263,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
-- name: sass
-  description: A pure JavaScript implementation of Sass
-  package_url: https://www.npmjs.com/sass
-  version: 1.26.3
-  license: MIT
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 7.5.2
+  license: ISC
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package.json
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
-  last_updated_by: james foran
-  last_updated_on: 2020-03-17 11:10:42.000000000 Z
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2023-07-05 04:24:29.000000000 Z
 - name: slugify
   description: Slugifies a String
   package_url: https://www.npmjs.com/slugify
@@ -236,7 +291,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/adamdjbrett/aila-hylia/blob/master/package.json
   detection_source: package.json
   last_updated_by: james foran
   last_updated_on: 2020-03-17 11:10:42.000000000 Z
